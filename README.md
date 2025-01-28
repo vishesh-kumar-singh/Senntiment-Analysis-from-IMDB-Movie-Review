@@ -62,8 +62,6 @@ Click the thumbnail above to watch a demo of the project in action!
 ---
 
 ## Outputs
-- Trained model checkpoints saved in a specified directory.
-- Log files containing training and evaluation details.
 - Predictions on test data with associated metrics.
 - A Streamlit app enabling real-time text-based emotion classification.
 
